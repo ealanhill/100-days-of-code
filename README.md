@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+* Round 1 - I'll be build an app to help people determine their biological prime time (https://alifeofproductivity.com/calculate-biological-prime-time/)
+
 ## Contents
 
 * [Rules](rules.md)
