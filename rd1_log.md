@@ -11,3 +11,14 @@ Well, it's a bit hard to focus on just coding for an hour. I feel like I've fall
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/f570203f9e61df1994a127a07190a555c6c8abe3
 
+### Day 2: June 20, Thursday
+
+**Today's Progress**:
+Completed setting up the adapter, item skeletons, and the ViewHolder skeletons for the Statistics Screen `RecyclerView`.
+
+**Thoughts**
+I chose a `ListAdapter` so that I don't have to implement a complex `DiffUtil`. Almost didn't the second day done 😅
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/e8b3d8a496d9bc0663045c48d448d450407a4a26
+
