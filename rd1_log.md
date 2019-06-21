@@ -22,3 +22,13 @@ I chose a `ListAdapter` so that I don't have to implement a complex `DiffUtil`. 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/e8b3d8a496d9bc0663045c48d448d450407a4a26
 
+### Day 3: June 21, Friday
+
+**Today's Progress**:
+Set up MVVM for the spark item in my home screens `RecyclerView`.
+
+**Thoughts**
+I wanted to use/learn MVI with this project, but it definitely is going to require a bunch of research. I'm going to look at that this weekend.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/1d4145e0ce24338b9cec1f7ed63a7a1891bf688a
