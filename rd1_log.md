@@ -32,3 +32,14 @@ I wanted to use/learn MVI with this project, but it definitely is going to requi
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/1d4145e0ce24338b9cec1f7ed63a7a1891bf688a
+
+### Day 4: June 22, Saturday
+
+**Today's Progress**:
+Set up Koin to be able to inject the repository into any necessary components and got rid of ViewModel for the SparkItem, it was not adding anything to the architecture.
+
+**Thoughts**
+Koin was super easy to set-up. Holy cow, sooooooo much faster than Dagger
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/3f6711332f6b2ad3996eeef81b4dbfadda40d786
