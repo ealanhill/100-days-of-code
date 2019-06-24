@@ -44,7 +44,6 @@ Koin was super easy to set-up. Holy cow, sooooooo much faster than Dagger
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/3f6711332f6b2ad3996eeef81b4dbfadda40d786
 
-
 ### Day 5: June 23, Sunday
 
 **Today's Progress**:
@@ -58,3 +57,14 @@ Ok, got some dummy data set up for testing. I need to figure out a better way to
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/a44e408792c83d5e89fa4fd7e087f12a1c369ddb
+
+### Day 6: June 24, Monday
+
+**Today's Progress**:
+Had to correct some issues with the dummy data for the spark line. Got the entry card designed and created. And added in the beginning of the tests for the StatisticsViewModel
+
+**Thoughts**
+Things are moving along, it's a little bit each day, but defnitely starting to see progress.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/3dec1e4c9e0991d3c91332611b7348bac4a981db
