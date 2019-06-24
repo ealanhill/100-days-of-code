@@ -43,3 +43,18 @@ Koin was super easy to set-up. Holy cow, sooooooo much faster than Dagger
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/3f6711332f6b2ad3996eeef81b4dbfadda40d786
+
+
+### Day 5: June 23, Sunday
+
+**Today's Progress**:
+* create the new statistic fragment to show the user's statistics
+* convert the main activity to a databinding view
+* set up the ViewModel for the StatisticsFragment so it can deliver
+   some dummy data to the statistics fragment for testing
+
+**Thoughts**
+Ok, got some dummy data set up for testing. I need to figure out a better way to do this on the weekend, instead of waiting until late at night.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/a44e408792c83d5e89fa4fd7e087f12a1c369ddb
