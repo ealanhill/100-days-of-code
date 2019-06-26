@@ -68,3 +68,15 @@ Things are moving along, it's a little bit each day, but defnitely starting to s
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/3dec1e4c9e0991d3c91332611b7348bac4a981db
+
+
+### Day 7: June 25, Tuesday
+
+**Today's Progress**:
+Set up the Hour cards on the statistics screen.
+
+**Thoughts**
+I'm definitely not a designer, but I'm hoping that keeping things simple will work well.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/0141b3c73ecb93a551f21db50f84582df09549d2
