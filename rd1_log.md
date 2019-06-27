@@ -91,3 +91,28 @@ It's great working with something new from Google, but the lack of articles for 
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/bbcf4951b3d8704e3ae8a92b06182d292a282804
+
+
+### Day 9: June 27, Thursday
+
+**Today's Progress**
+Created the layout and basic ViewModel for the form entry.
+
+**Thoughts**
+Well, kinda got on a roll, but needed to stop to get to work on other things.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/dea7a039e9fbe1f6bd19cd1b5212c4dc75c5ff54
+
+<!--
+### Day : June 26, Wednesday
+
+**Today's Progress**
+
+
+**Thoughts**
+
+
+**Link(s) to work**
+
+-->
