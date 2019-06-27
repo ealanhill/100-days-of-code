@@ -80,3 +80,14 @@ I'm definitely not a designer, but I'm hoping that keeping things simple will wo
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/0141b3c73ecb93a551f21db50f84582df09549d2
+
+### Day 8: June 26, Wednesday
+
+**Today's Progress**
+Set up MotionLayout to be able to show users a nice transition as they scroll through their statistics feed.
+
+**Thoughts**
+It's great working with something new from Google, but the lack of articles for how to use `MotionLayout` makes it hard. 🤷‍♂️
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/bbcf4951b3d8704e3ae8a92b06182d292a282804
