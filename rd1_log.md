@@ -104,6 +104,18 @@ Well, kinda got on a roll, but needed to stop to get to work on other things.
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/dea7a039e9fbe1f6bd19cd1b5212c4dc75c5ff54
 
+
+### Day 10: June 28, Friday
+
+**Today's Progress**
+Completed the view model for the form entry. Got some validation in for the form and saving data to the database. Still need to write the tests for the ViewModel...tomorrow's work!
+
+**Thoughts**
+Databinding can be a real pain, it definitely does not produce easy to read errors.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/df61f73c064b847f1ca943991ef05bde8087aec4
+
 <!--
 ### Day : June 26, Wednesday
 
