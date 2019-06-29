@@ -116,6 +116,18 @@ Databinding can be a real pain, it definitely does not produce easy to read erro
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/df61f73c064b847f1ca943991ef05bde8087aec4
 
+
+### Day 11: June 29, Saturday
+
+**Today's Progress**
+Wrote all the tests for the `EntryFormViewModel`.
+
+**Thoughts**
+Feel pretty awesome having been able to write all the automated tests for the view model.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/a396478cab55e3021e37f0cf387e65e34c3fa5fa
+
 <!--
 ### Day : June 26, Wednesday
 
