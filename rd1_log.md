@@ -128,6 +128,18 @@ Feel pretty awesome having been able to write all the automated tests for the vi
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/a396478cab55e3021e37f0cf387e65e34c3fa5fa
 
+
+### Day 12: June 30, Sunday
+
+**Today's Progress**
+Hooked-up the entry form view to a `DialogFragment`. Got some data entered into the database!
+
+**Thoughts**
+Have a small issue with the keyboard, will need to work on that tomorrow.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/547e41b44c21d90630f999c7c9d3c185a5ca4ad3
+
 <!--
 ### Day : June 26, Wednesday
 
