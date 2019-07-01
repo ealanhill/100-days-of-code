@@ -140,6 +140,18 @@ Have a small issue with the keyboard, will need to work on that tomorrow.
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/547e41b44c21d90630f999c7c9d3c185a5ca4ad3
 
+
+### Day 13: July, Monday
+
+**Today's Progress**
+Swapped to using a `BottomSheetDialogFragment` and using chips for the form entry.
+
+**Thoughts**
+It's great when you get some good inspiration, but the new work is always annoying 😅
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/8a7e8fa9897d2f1fa024d0e6946636e286d75dd0
+
 <!--
 ### Day : June 26, Wednesday
 
