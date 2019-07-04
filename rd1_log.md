@@ -163,6 +163,17 @@ Missed yesterday, but I'm good, it's allowed in the rules 😅
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/00c407e6e1d641f4f27fda85a3ffe6113eb92e26
 
+### Day 16: July 4, Thursday
+
+**Today's Progress**
+Added a binding adapter to allow me to use databinding for the `ChipGroup`s
+
+**Thoughts**
+Having an issue compiling it, but I will need to look at that later.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/a8cf245a92a1cb8fd628006ec2f5b31a691c6c33
+
 <!--
 ### Day : June 26, Wednesday
 
