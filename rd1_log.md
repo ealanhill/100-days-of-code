@@ -141,7 +141,7 @@ Have a small issue with the keyboard, will need to work on that tomorrow.
 https://github.com/ealanhill/bpt/commit/547e41b44c21d90630f999c7c9d3c185a5ca4ad3
 
 
-### Day 13: July, Monday
+### Day 13: July 1, Monday
 
 **Today's Progress**
 Swapped to using a `BottomSheetDialogFragment` and using chips for the form entry.
@@ -151,6 +151,17 @@ It's great when you get some good inspiration, but the new work is always annoyi
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/8a7e8fa9897d2f1fa024d0e6946636e286d75dd0
+
+### Day 15: July 3, Wednesday
+
+**Today's Progress**
+Completed styling the bottom sheet and the chips for the user to select their levels.
+
+**Thoughts**
+Missed yesterday, but I'm good, it's allowed in the rules 😅
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/00c407e6e1d641f4f27fda85a3ffe6113eb92e26
 
 <!--
 ### Day : June 26, Wednesday
