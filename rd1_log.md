@@ -174,6 +174,16 @@ Having an issue compiling it, but I will need to look at that later.
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/a8cf245a92a1cb8fd628006ec2f5b31a691c6c33
 
+### Day 17: July 5, Friday
+
+**Today's Progress**
+Figured out the new databinding adapters for the `ChipGroup` (though there might be a better way to do it). Added in an error field since the `ChipGroup` doesn't have one.
+
+**Thoughts**
+I think I should create a custom `ChipGroup` that shows an error
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/79143c386abd53b84e00e483fd570751a05a65ae
 <!--
 ### Day : June 26, Wednesday
 
