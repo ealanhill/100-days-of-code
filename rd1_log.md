@@ -184,6 +184,17 @@ I think I should create a custom `ChipGroup` that shows an error
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/79143c386abd53b84e00e483fd570751a05a65ae
+
+### Day 18: July 6, Saturday
+
+**Today's Progress**
+Went through and corrected issues with the `EntryFormViewModel`. Started planning out the ViewModel for the Statistics screen.
+
+**Thoughts**
+Sometimes, it's not about coding, it's about planning your work.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/32c532dc3070be9a23468ff387155fb0ab312df7
 <!--
 ### Day : June 26, Wednesday
 
