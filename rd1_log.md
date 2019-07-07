@@ -195,6 +195,18 @@ Sometimes, it's not about coding, it's about planning your work.
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/32c532dc3070be9a23468ff387155fb0ab312df7
+
+### Day 19: July 7, Sunday
+
+**Today's Progress**
+Well, went through and corrected several logic errors that did not enable the submit button properly. Also updated the color of the submit button. Entry from done.
+
+**Thoughts**
+Well, I really need to make sure I plan out the next steps ahead of time so I'm not wasting a lot of time.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/88893078d20e4ed0544388b222c255ce7ae1e3d5
+
 <!--
 ### Day : June 26, Wednesday
 
