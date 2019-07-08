@@ -207,6 +207,17 @@ Well, I really need to make sure I plan out the next steps ahead of time so I'm 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/88893078d20e4ed0544388b222c255ce7ae1e3d5
 
+### Day 20: July 8, Monday
+
+**Today's Progress**
+Made some minor architecture changes to the way the main `RecyclerView` on the Statistics screen pulls data from the database. Mainly by having the item(s) pull the needed data.
+
+**Thoughts**
+I like being flexible with my architecture. I'm generally following MVVM at this point, but within that, I'm making changes as I need to, trying to keep things simple and testable.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/6a3366e6dc22d7ead776ac288a3ed3c1954caf59
+
 <!--
 ### Day : June 26, Wednesday
 
