@@ -218,6 +218,17 @@ I like being flexible with my architecture. I'm generally following MVVM at this
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/6a3366e6dc22d7ead776ac288a3ed3c1954caf59
 
+### Day 21: June 9, Tuesday
+
+**Today's Progress**
+Corrected some issues when pulling the current day's entries from the database.
+
+**Thoughts**
+Need to set up some tests to be sure things are correct.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/2001b31ed6c22f94942e2546f12a8cf4250b2c98
+
 <!--
 ### Day : June 26, Wednesday
 
