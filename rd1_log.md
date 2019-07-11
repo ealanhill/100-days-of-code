@@ -229,6 +229,16 @@ Need to set up some tests to be sure things are correct.
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/2001b31ed6c22f94942e2546f12a8cf4250b2c98
 
+### Day 22: July 10, Wednesday
+
+**Today's Progress**
+Properly calculated the X/Y coordinates of the points on the spark graph.
+
+**Thoughts**
+I feel better about this, but I do need to write up some tests...
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/15a81e5e834892b537ca0a3be656cb494c0217ba
 <!--
 ### Day : June 26, Wednesday
 
