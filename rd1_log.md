@@ -239,6 +239,17 @@ I feel better about this, but I do need to write up some tests...
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/15a81e5e834892b537ca0a3be656cb494c0217ba
+
+### Day 23: July 11, Thursday
+
+**Today's Progress**
+Well, pulled the hour entries from the database and got them displaying nicely.
+
+**Thoughts**
+Room + LiveData are awesome, I really wish I had used this before.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/42d09087937d448455fc8414624d9985375a6347
 <!--
 ### Day : June 26, Wednesday
 
