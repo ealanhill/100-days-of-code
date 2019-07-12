@@ -250,6 +250,17 @@ Room + LiveData are awesome, I really wish I had used this before.
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/42d09087937d448455fc8414624d9985375a6347
+
+### Day 24: July 12, Friday
+
+**Today's Progress**
+Finally added some tests around the `SparkViewModel`!
+
+**Thoughts**
+Feeling good about the testing
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/1ea5ed6557fbf504a57f03d9de7ebc50d5f23406
 <!--
 ### Day : June 26, Wednesday
 
