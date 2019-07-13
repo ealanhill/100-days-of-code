@@ -261,6 +261,18 @@ Feeling good about the testing
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/1ea5ed6557fbf504a57f03d9de7ebc50d5f23406
+
+
+### Day 25: July 13, Saturday
+
+**Today's Progress**
+Created the tests for the `StatisticsViewModel`
+
+**Thoughts**
+Yay for more tests!
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/52f899206d9fe419f66fa5bf944e3e2a3bb6c0ed
 <!--
 ### Day : June 26, Wednesday
 
