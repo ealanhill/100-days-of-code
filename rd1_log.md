@@ -273,6 +273,17 @@ Yay for more tests!
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/52f899206d9fe419f66fa5bf944e3e2a3bb6c0ed
+
+### Day 26: July 14, Sunday
+
+**Today's Progress**
+Correct several UI issues with the bottoms navigation bar, added in a placeholder for when there are no hour entries, and show the date at the top of the Statistics Screen
+
+**Thoughts**
+Getting to be done with the statistics screen. I'll need to spend some time over the next couple days deciding what needs to be worked on next...
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/b8d1e13e44f9705fb3fe0a2ffd3c4299e0fda5de
 <!--
 ### Day : June 26, Wednesday
 
