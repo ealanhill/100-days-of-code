@@ -295,6 +295,17 @@ Working on implementing some of the Effective Java items...
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/ed9411a646613962450854172eb16d5ac12e0545
+
+### Day 28: July 17, Wednesday
+
+**Today's Progress**
+Created all the layouts for the info screen's views.
+
+**Thoughts**
+I like have the layouts completed, it makes things easier moving forward.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/4667bbb05320383c513eabe238ba4d75f6748826
 <!--
 ### Day : June 26, Wednesday
 
