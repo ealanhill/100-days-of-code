@@ -284,6 +284,17 @@ Getting to be done with the statistics screen. I'll need to spend some time over
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/b8d1e13e44f9705fb3fe0a2ffd3c4299e0fda5de
+
+### Day 28: July 16, Tuesday
+
+**Today's Progress**
+Started the Info screen by creating the skeleton items for the screen.
+
+**Thoughts**
+Working on implementing some of the Effective Java items...
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/ed9411a646613962450854172eb16d5ac12e0545
 <!--
 ### Day : June 26, Wednesday
 
