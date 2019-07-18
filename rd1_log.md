@@ -306,6 +306,17 @@ I like have the layouts completed, it makes things easier moving forward.
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/4667bbb05320383c513eabe238ba4d75f6748826
+
+### Day 33: July 18, Thursday
+
+**Today's Progress**
+Created the list adapter for the info screen.
+
+**Thoughts**
+I'm curious if there's a simple way to create a generic list adapter that does all this. Doubtful, it would need to be simple.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/593d767353cdb2d3d06f7cc3fdab22c98f3327a2
 <!--
 ### Day : June 26, Wednesday
 
