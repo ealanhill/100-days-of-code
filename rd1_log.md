@@ -307,7 +307,7 @@ I like have the layouts completed, it makes things easier moving forward.
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/4667bbb05320383c513eabe238ba4d75f6748826
 
-### Day 33: July 18, Thursday
+### Day 30: July 18, Thursday
 
 **Today's Progress**
 Created the list adapter for the info screen.
