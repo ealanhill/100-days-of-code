@@ -317,6 +317,17 @@ I'm curious if there's a simple way to create a generic list adapter that does a
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/593d767353cdb2d3d06f7cc3fdab22c98f3327a2
+
+### Day 31: July 19, Friday
+
+**Today's Progress**
+Set up the new info fragment to display a skeleton for the info screen.
+
+**Thoughts**
+I'm curious about how to grab the metadata of a webpage 🤔
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/79bb370497c3893da179e444d193b68d2f1829b1
 <!--
 ### Day : June 26, Wednesday
 
