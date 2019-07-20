@@ -328,6 +328,17 @@ I'm curious about how to grab the metadata of a webpage 🤔
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/79bb370497c3893da179e444d193b68d2f1829b1
+
+### Day 32: July 20, Saturday
+
+**Today's Progress**
+Planned out how I'm going to grab website metadata to be able to display it to the user in the app.
+
+**Thoughts**
+There needs to be a better way to scrap HTML tags in OkHttp than JSoup...
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/56919fe81a294352e45061159c72a0f52f1651f6
 <!--
 ### Day : June 26, Wednesday
 
