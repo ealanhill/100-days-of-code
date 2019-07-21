@@ -339,6 +339,17 @@ There needs to be a better way to scrap HTML tags in OkHttp than JSoup...
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/56919fe81a294352e45061159c72a0f52f1651f6
+
+### Day 33: July 21, Sunday
+
+**Today's Progress**
+Took some time to set up the network coroutines.
+
+**Thoughts**
+I'm using coroutines to learn something different. I'm familiar with RxJava that it would take no time, but I really want to stretch myself.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/84373e0f572d2985745230455f65610258737e5a
 <!--
 ### Day : June 26, Wednesday
 
