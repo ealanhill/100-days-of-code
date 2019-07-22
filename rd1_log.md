@@ -350,6 +350,17 @@ I'm using coroutines to learn something different. I'm familiar with RxJava that
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/84373e0f572d2985745230455f65610258737e5a
+
+### Day 34: July 22, Monday
+
+**Today's Progress**
+Extract the metadata information from the HTML of the article.
+
+**Thoughts**
+Regex's are not an easy thing to create.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/1f5093e61d07128f9d63b125313a6e4ffd5e4b80
 <!--
 ### Day : June 26, Wednesday
 
