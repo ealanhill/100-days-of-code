@@ -361,6 +361,17 @@ Regex's are not an easy thing to create.
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/1f5093e61d07128f9d63b125313a6e4ffd5e4b80
+
+### Day 35: July 23, Thursday
+
+**Today's Progress**
+Loaded the metadata for articles into their respective cards.
+
+**Thoughts**
+It's nice to see my hardwork starting to pay off.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/5b7513042517c88d358ebf57e7f6b6d3c9fcaf1c
 <!--
 ### Day : June 26, Wednesday
 
