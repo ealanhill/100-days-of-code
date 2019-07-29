@@ -372,6 +372,18 @@ It's nice to see my hardwork starting to pay off.
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/5b7513042517c88d358ebf57e7f6b6d3c9fcaf1c
+
+
+### Day 36: July 29, Monday
+
+**Today's Progress**
+Updated some UI issues with the info screen.
+
+**Thoughts**
+Took a couple days off due to a life change. But getting back into this.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/0ecc86aea69e78f3776c487d82830a33ac375614
 <!--
 ### Day : June 26, Wednesday
 
