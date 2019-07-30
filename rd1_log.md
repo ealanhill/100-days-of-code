@@ -384,6 +384,17 @@ Took a couple days off due to a life change. But getting back into this.
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/0ecc86aea69e78f3776c487d82830a33ac375614
+
+### Day 37: July 30, Tuesday
+
+**Today's Progress**
+Added in some placeholders for the articles so it doesn't look weird while pulling the data for users.
+
+**Thoughts**
+Thinking about using facebook's shimmer library to make the placeholders more lively...
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/8f0193b0396c8bba8b1c6676394f24d25ad4d65e
 <!--
 ### Day : June 26, Wednesday
 
