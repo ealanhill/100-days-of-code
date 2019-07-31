@@ -395,6 +395,18 @@ Thinking about using facebook's shimmer library to make the placeholders more li
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/8f0193b0396c8bba8b1c6676394f24d25ad4d65e
+
+
+### Day 38: July 31, Wednesday
+
+**Today's Progress**
+Added in tests for `ArticleViewModel`, updated Mockito version, and added the mockito extensions from nhaarman.
+
+**Thoughts**
+It took some time to get the callback test working, but now it's working like a champ!
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/3e26c93f723407e8548ca26cffdd9faf9cc419e5
 <!--
 ### Day : June 26, Wednesday
 
