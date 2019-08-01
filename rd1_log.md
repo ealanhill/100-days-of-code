@@ -407,6 +407,18 @@ It took some time to get the callback test working, but now it's working like a 
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/3e26c93f723407e8548ca26cffdd9faf9cc419e5
+
+
+### Day 39: August 1, Thursday
+
+**Today's Progress**
+Some minor stuff, really. Just set up the Network module so I can test it using JUnit 5 and corrected some dependency injection issues with the Network class.
+
+**Thoughts**
+Sooooo much better to use dependency injection instead of creating classes locally.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/f701479089a7ea754f1ad6e8bd54d47e54ce068b
 <!--
 ### Day : June 26, Wednesday
 
