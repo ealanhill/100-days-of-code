@@ -419,6 +419,18 @@ Sooooo much better to use dependency injection instead of creating classes local
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/f701479089a7ea754f1ad6e8bd54d47e54ce068b
+
+
+### Day 40: August 2, Friday
+
+**Today's Progress**
+Added a simple network test.
+
+**Thoughts**
+I'm not sure I like all the mocking I need to do to test the requests.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/af6b86a383162904601beafa5daabc710a743bd1
 <!--
 ### Day : June 26, Wednesday
 
