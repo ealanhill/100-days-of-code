@@ -442,6 +442,18 @@ I should pull the HTML out into a file...
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/5a5789876a283922785fd8c972bcb220514e44d9
+
+
+### Day 42: August 5, Monday
+
+**Today's Progress**
+Set up the repository pattern so I can cache network responses
+
+**Thoughts**
+I'm having difficulty with coroutines, I may end up switching over to Rx...
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/fa13f7db95e3400c06de5ff6ab85f0cd24bf5f34
 <!--
 ### Day : June 26, Wednesday
 
