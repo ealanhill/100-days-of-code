@@ -431,6 +431,17 @@ I'm not sure I like all the mocking I need to do to test the requests.
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/af6b86a383162904601beafa5daabc710a743bd1
+
+### Day 41: August 4, Sunday
+
+**Today's Progress**
+Finished writing the tests for the Network object.
+
+**Thoughts**
+I should pull the HTML out into a file...
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/5a5789876a283922785fd8c972bcb220514e44d9
 <!--
 ### Day : June 26, Wednesday
 
