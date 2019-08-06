@@ -454,6 +454,18 @@ I'm having difficulty with coroutines, I may end up switching over to Rx...
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/fa13f7db95e3400c06de5ff6ab85f0cd24bf5f34
+
+
+### Day 43: August 6, Tuesday
+
+**Today's Progress**
+Corrected some issues with querying the database on the main thread.
+
+**Thoughts**
+Should've done this yesterday...
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/8df6861fd7aa0aa44ed9be83ffe27ab8a5cff0da
 <!--
 ### Day : June 26, Wednesday
 
