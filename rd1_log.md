@@ -466,6 +466,17 @@ Should've done this yesterday...
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/8df6861fd7aa0aa44ed9be83ffe27ab8a5cff0da
+
+### Day 44: Aug 7, Wednesday
+
+**Today's Progress**
+Added in the tests for the repository layer of the app.
+
+**Thoughts**
+Unit testing is great, it definitely forces me to reevaluate how I'm doing something.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/9440561cd2cb3d29c64b19688912f03dd194485c
 <!--
 ### Day : June 26, Wednesday
 
