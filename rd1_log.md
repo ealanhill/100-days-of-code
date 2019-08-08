@@ -477,6 +477,18 @@ Unit testing is great, it definitely forces me to reevaluate how I'm doing somet
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/9440561cd2cb3d29c64b19688912f03dd194485c
+
+
+### Day 45: Aug 8, Thursday
+
+**Today's Progress**
+Created a simple WebView activity so users can read articles within the app.
+
+**Thoughts**
+It's really important that I don't take users outside of the app, it keeps engagement high.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/234b69f94ff792afb80cabf6760904f32b9422b4
 <!--
 ### Day : June 26, Wednesday
 
