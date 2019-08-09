@@ -489,6 +489,18 @@ It's really important that I don't take users outside of the app, it keeps engag
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/234b69f94ff792afb80cabf6760904f32b9422b4
+
+
+### Day 46: Aug 9, Friday
+
+**Today's Progress**
+Made several corrections to ensure the web view is able to display a website. No real reason for MVVM for this activity.
+
+**Thoughts**
+You don't always need to follow the architecture strictly.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/04db8c1ec817ec27c9154b1f2ea547a6a1dd5612
 <!--
 ### Day : June 26, Wednesday
 
