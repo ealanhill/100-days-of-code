@@ -501,6 +501,16 @@ You don't always need to follow the architecture strictly.
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/04db8c1ec817ec27c9154b1f2ea547a6a1dd5612
+
+### Day 47: Aug 10, Saturday
+
+**Today's Progress**
+Implemented Chrome Custom Tabs to provide a much better experience to users.
+
+**Thoughts**
+I finally figured out what I needed to do to show a proper browser in my app instead of using a WebView...woot!
+
+**Link(s) to work**
 <!--
 ### Day : June 26, Wednesday
 
