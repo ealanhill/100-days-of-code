@@ -511,6 +511,7 @@ Implemented Chrome Custom Tabs to provide a much better experience to users.
 I finally figured out what I needed to do to show a proper browser in my app instead of using a WebView...woot!
 
 **Link(s) to work**
+https://github.com/ealanhill/bpt/commit/d4aa4956cab4f5b9bf4e53a2abc751c20163e42e
 <!--
 ### Day : June 26, Wednesday
 
