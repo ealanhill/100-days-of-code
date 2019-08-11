@@ -512,6 +512,18 @@ I finally figured out what I needed to do to show a proper browser in my app ins
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/d4aa4956cab4f5b9bf4e53a2abc751c20163e42e
+
+
+### Day 48: Aug 11, Sunday
+
+**Today's Progress**
+Started the Account screen!
+
+**Thoughts**
+I'm thinking I could just use the same layout for each of the screens...
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/f0f8cff11a3a5e026a1d847180a6c466c0df7594
 <!--
 ### Day : June 26, Wednesday
 
