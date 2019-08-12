@@ -524,6 +524,17 @@ I'm thinking I could just use the same layout for each of the screens...
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/f0f8cff11a3a5e026a1d847180a6c466c0df7594
+
+### Day 49: Aug 12, Monday
+
+**Today's Progress**
+Set up the productivity cards for the user's account screen.
+
+**Thoughts**
+I like the way this is turning out.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/d9db28c9de9dcfd0b141142c6d468385eb9cad74
 <!--
 ### Day : June 26, Wednesday
 
