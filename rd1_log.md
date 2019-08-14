@@ -535,6 +535,18 @@ I like the way this is turning out.
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/d9db28c9de9dcfd0b141142c6d468385eb9cad74
+
+
+### Day 50: Aug 13, Tuesday
+
+**Today's Progress**
+Spent some time thinking on how to determine user's most productive hour of the day. Then set up the layout for the settings card on the account screen.
+
+**Thoughts**
+Creating your own algorithm is hard.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/c3b152233d6abd17d584c5b20b405b5058659b9d
 <!--
 ### Day : June 26, Wednesday
 
