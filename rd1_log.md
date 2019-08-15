@@ -559,6 +559,17 @@ With room it's pretty easy to add new tables.
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/7997df9ee16b9cca035ecbc304fd1611d9b4a138
+
+### Day 52: Aug 15, Thursday
+
+**Today's Progress**
+Added in some tests for the Account package.
+
+**Thoughts**
+Tests, tests, and more tests
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/457aaf1a124c73adde30484e2a1b9c979ff7772b
 <!--
 ### Day : June 26, Wednesday
 
