@@ -547,6 +547,18 @@ Creating your own algorithm is hard.
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/c3b152233d6abd17d584c5b20b405b5058659b9d
+
+
+### Day 51: Aug 14, Wednesday
+
+**Today's Progress**
+Well, set up a settings table in the database and pulling it from the database.
+
+**Thoughts**
+With room it's pretty easy to add new tables.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/7997df9ee16b9cca035ecbc304fd1611d9b4a138
 <!--
 ### Day : June 26, Wednesday
 
