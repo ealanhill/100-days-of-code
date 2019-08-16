@@ -570,6 +570,17 @@ Tests, tests, and more tests
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/457aaf1a124c73adde30484e2a1b9c979ff7772b
+
+### Day 53: Aug 16, Friday
+
+**Today's Progress**
+Finished tests for the SettingsViewModel
+
+**Thoughts**
+Having tests, definitely makes me feel comfortable with business logic.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/5217cc1f37df1058792ae73bd3f1e89b58c24b36
 <!--
 ### Day : June 26, Wednesday
 
