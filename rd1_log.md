@@ -592,6 +592,17 @@ Sometimes, I think I write too much boilerplate...
 
 **Link(s) to work**
 https://github.com/ealanhill/bpt/commit/581bc3cff7a12d37ce12d41d6be1490e9759d952
+
+### Day 55: Aug 19, Monday
+
+**Today's Progress**
+Constructed a list of account items in it's view model
+
+**Thoughts**
+There's a bug that I cannot figure out, that'll have to wait for tomorrow.
+
+**Link(s) to work**
+https://github.com/ealanhill/bpt/commit/5be440dc5a0a5bb4e16d90a8995a0f4fa96c33b7
 <!--
 ### Day : June 26, Wednesday
 
